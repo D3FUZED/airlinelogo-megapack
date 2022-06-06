@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="aa-american-airlines-a" x1="11.065%" x2="24.034%" y1="70.504%" y2="6.346%">
+      <stop offset="0%" stop-color="#A00"/>
+      <stop offset="100%" stop-color="#E00"/>
+    </linearGradient>
+    <linearGradient id="aa-american-airlines-b" x1="57.699%" x2="29.901%" y1="77.873%" y2="20.818%">
+      <stop offset="0%" stop-color="#1A518B"/>
+      <stop offset="100%" stop-color="#01ACEA"/>
+    </linearGradient>
+    <linearGradient id="aa-american-airlines-c" x1="60.816%" x2="23.756%" y1="72.896%" y2="32.56%">
+      <stop offset="0%" stop-color="#A11819"/>
+      <stop offset="100%" stop-color="#E81C25"/>
+    </linearGradient>
+    <linearGradient id="aa-american-airlines-d" x1="256.664%" x2="9.876%" y1="-27%" y2="55.761%">
+      <stop offset="0%"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#aa-american-airlines-a)" fill-rule="nonzero" d="M46.8983333,78.5271124 L56.4716667,63.2312791 L70.805,60.1292791 L79.7366667,70.8259458 C79.7366667,70.8259458 52.0333333,87.4051124 51.9791667,87.1376124 C51.9259167,86.8701958 46.8983333,78.5267791 46.8983333,78.5267791 L46.8983333,78.5271124 Z"/>
+    <path fill="url(#aa-american-airlines-b)" fill-rule="nonzero" d="M-5.68434189e-14,1.09511242 L22.342,37.8417791 C28.4453333,47.0351124 30.922,48.9071124 46.552,48.6064458 L62.1153333,48.6124458 L35.4046667,15.5937791 C25.954,2.66177909 19.9593333,0.754445752 8.68866667,1.02311242 L-5.68434189e-14,1.09511242 Z"/>
+    <path fill="url(#aa-american-airlines-c)" fill-rule="nonzero" d="M119.906667,119.280446 L78.108,68.7804458 C65.194,70.3925124 56.5126667,75.0173124 50.83,85.2411124 L63.6753333,106.905112 C72.846,120.050446 81.9906667,119.331779 89.5133333,119.309779 L119.906667,119.280446 Z"/>
+    <path fill="url(#aa-american-airlines-d)" fill-rule="nonzero" d="M90.3735333,60.9471124 C86.5532,52.0311124 74.084,50.7417791 63.7753333,51.0331124 C59.3176,51.3020591 54.724,51.4871991 50.576,51.9565791 C48.5231333,52.1927524 46.3066667,52.7015124 43.5706667,54.0765124 C34.8786667,59.7132458 38.6176667,64.2491791 40.5775333,68.2258458 L50.7815333,85.0965124 C50.2324,64.7918458 70.7248667,59.7271791 90.3735333,60.9471791 L90.3735333,60.9471124 Z"/>
+  </g>
+</svg>

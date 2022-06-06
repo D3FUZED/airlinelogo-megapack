@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="i2-iberia-express-a" x1="3.309%" x2="103.216%" y1="30.158%" y2="63.336%">
+      <stop offset="0%" stop-color="#A61C22"/>
+      <stop offset="50%" stop-color="#DC1C2E"/>
+      <stop offset="100%" stop-color="#DC1C2E"/>
+    </linearGradient>
+    <linearGradient id="i2-iberia-express-b" x1="-1.228%" x2="99.158%" y1="34.065%" y2="68.042%">
+      <stop offset="0%" stop-color="#ED7417"/>
+      <stop offset="85%" stop-color="#FACD08"/>
+      <stop offset="100%" stop-color="#FACD08"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" transform="translate(0 15)">
+    <path fill="url(#i2-iberia-express-a)" d="M21.0657208,48.2848717 L2.13162821e-14,27.0221961 L2.13162821e-14,27.0193825 C73.1236834,27.0193825 90.3628541,44.2107213 100.421616,67.6117631 L100.421616,67.6117631 L108.868163,89.6397487 C84.2319331,88.9307114 47.0553111,74.4095167 21.0657208,48.2848717" transform="matrix(1 0 0 -1 0 116.66)"/>
+    <path fill="url(#i2-iberia-express-b)" d="M70.1834298,24.008788 L46.4813286,0 C68.9848193,16.1643603 91.4264099,25.9164357 113.783591,28.4346433 L113.783591,28.4346433 L119.233612,42.6491513 C86.1367672,42.6491513 81.6293163,35.4124698 70.1834298,24.008788" transform="matrix(1 0 0 -1 0 42.65)"/>
+  </g>
+</svg>
